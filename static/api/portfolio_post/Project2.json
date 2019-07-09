@@ -1,0 +1,15 @@
+{
+  "results": [{
+    "id": "Project2",
+    "title": "Seads Visualization - Radial Heat Map",
+    "content": "Created residential energy consumption and solar power generation data visualization using d3.js (HTML, CSS, and JavaScript), edited data and used API to integrate data visualization into their website. It has timeline silder, tooltip, and legend.",
+    "image": "https://s3-us-west-1.amazonaws.com/12webimage/webimage/p2.png",
+    "meta": {
+      "description": "Data Visualization for SEADS, a non-profit organization",
+      "livedemo": "https://sharad97.github.io/SEADS_Visualization/FInal/index.html",
+      "source": "https://github.com/sharad97/SEADS_Visualization/tree/master/FInal",
+      "published": "2017-04-09T22:11:56Z",
+      "author": "Sharad Shrestha"
+    }
+  }]
+}

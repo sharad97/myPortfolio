@@ -1,0 +1,15 @@
+{
+  "results": [{
+    "id": "Project3",
+    "title": "FileOpen System Visualization - Cluster Bubble Chart",
+    "content": "Created an interactive cluster bubble chart which shows the number of times a document was opened per user and categorizes it by email domain. Data is pulled from API which is in JSON file. It has force simulation, drag, and zoom functionality for better visualization. I added on-click event button which calls a function to categorize user by email domain. I used force simulation while categorizing user which make more satisfying for client and interactive. I also added a dynamic legend, tooltips, and hint for more information.",
+    "image": "https://s3-us-west-1.amazonaws.com/12webimage/webimage/p3.png",
+    "meta": {
+      "description": "Data Visualization for FileOpen System Company",
+      "livedemo": "https://sharad97.github.io/CMPS-115/project_testing/bublechart_legend2.html",
+      "source": "https://github.com/FileOpenMavericks/mavericks",
+      "published": "2017-08-28T00:55:44Z",
+      "author": "Sharad Shrestha"
+    }
+  }]
+}

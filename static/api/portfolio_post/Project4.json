@@ -1,0 +1,15 @@
+{
+  "results": [{
+    "id": "Project4",
+    "title": "FileOpen System Visualization - GeoMap",
+    "content": "Created an interactive geomap visualization which shows the locations of where users opened the document. When a user opens a file it will show on the map. Each user has a different color and displayed as circles (nodes) on the map. It has a search function which filters users. I also added force simulation, drag, and zoom functionality for better visualization. It also has the tooltip which shows information about the user when the mouse is move over the nodes. Data is pulled from API which is in JSON file.",
+    "image": "https://s3-us-west-1.amazonaws.com/12webimage/webimage/p4.png",
+    "meta": {
+      "description": "Data Visualization for FileOpen System Company",
+      "livedemo": "https://sharad97.github.io/CMPS-115/project_testing/main.html",
+      "source": "https://github.com/FileOpenMavericks/mavericks",
+      "published": "2017-08-25T18:31:01Z",
+      "author": "Sharad Shrestha"
+    }
+  }]
+}

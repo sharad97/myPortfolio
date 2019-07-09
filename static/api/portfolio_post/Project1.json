@@ -1,0 +1,15 @@
+{
+  "results": [{
+    "id": "Project1",
+    "title": "Earthquake Visualization - GeoMap",
+    "content": "Final project for Data Visualization class using d3.js which shows the number of earthquakes occurred since 1900. It has multiple functions for better interactivity such as timeline slider, zoom and drag functionality, the tooltip for countries and earthquake, and legend.",
+    "image": "https://s3-us-west-1.amazonaws.com/12webimage/webimage/p1.png",
+    "meta": {
+      "description": "Data Visualization Course Project",
+      "livedemo": "https://sharad97.github.io/CMPS-165/Project/final.html",
+      "source": "https://github.com/sharad97/CMPS-165/tree/master/Project",
+      "published": "2016-12-14T18:17:00Z",
+      "author": "Sharad Shrestha"
+    }
+  }]
+}
